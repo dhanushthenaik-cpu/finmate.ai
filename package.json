@@ -1,0 +1,8 @@
+{
+  "name": "finmate-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI-powered personal finance management system for AI for Finance CIA-2",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"}
+}
